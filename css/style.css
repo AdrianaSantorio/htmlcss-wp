@@ -79,13 +79,19 @@ nav a{
 
 .jumbotron-text{
     width: 50%;
-    height: fit-content;
     position: absolute;
-    bottom: 100px;
+    bottom: 80px;
     left: 50px;
     color: white;
-    font-size: 1.5em;
+    font-size: 18px;
+
 }
+
+.jumbotron h2{
+    font-weight: 100;
+    font-size: 32px;
+}
+
 
 /* columns */
 

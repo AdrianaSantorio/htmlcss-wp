@@ -146,4 +146,11 @@ figure::after {
     height: 50px;
     margin-top: 15px;
     margin-bottom: 20px;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.heart {
+    font-size: 1.5em;
+    color: red;
 }

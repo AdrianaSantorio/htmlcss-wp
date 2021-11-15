@@ -27,11 +27,16 @@
     margin-top: 20px;
 }
 
-/* page-header */
-.page-header {
-    background-color: #E579E6;
-    height: 75px;
+/* main-header */
+.main-header {
+    margin: 20px auto;
 }
+
+.logo {
+    height: 60px;
+    width: auto;
+}
+
 
 /* main */
 
